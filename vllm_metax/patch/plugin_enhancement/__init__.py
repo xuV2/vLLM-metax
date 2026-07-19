@@ -15,3 +15,4 @@ from . import quant_kernels  # noqa: F401
 from . import device_allocator  # noqa: F401
 from . import prefill_backend_registry  # noqa: F401
 from . import utils  # noqa: F401
+from . import external_fla  # noqa: F401
